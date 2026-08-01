@@ -12,7 +12,7 @@ matplotlib
 Install dependencies:
 ```bash
 pip install qiskit qiskit-aer matplotlib
-
+````
 **Run**
 python main.py
 
