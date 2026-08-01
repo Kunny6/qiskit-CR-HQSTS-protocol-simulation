@@ -14,12 +14,17 @@ qiskit-aer
 matplotlib
 Install dependencies:
 ```bash
-pip install qiskit qiskit-aer matplotlib
+pip install -r requirements.txt
 ````
 **Run**
-
+```bash
 python main.py
+python Level-1 quantum circuit stimulate.py
 
+python Level-2 quantum circuit stimulate.py
+
+python Level-3 quantum circuit stimulate.py
+````
 **Reproducibility**
 
 All parameters and circuit construction strictly follow the setup in the paper. Readers can directly run the script to verify the findings.
