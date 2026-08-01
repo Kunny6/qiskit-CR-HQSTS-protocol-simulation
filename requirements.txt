@@ -1,0 +1,4 @@
+python==3.9
+qiskit==1.4.6
+qiskit-aer==0.17.2
+matplotlib==3.9.4
