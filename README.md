@@ -19,10 +19,14 @@ pip install -r requirements.txt
 **Run**
 ```bash
 python main.py
+````
+```bash
 python Level-1 quantum circuit stimulate.py
-
+````
+```bash
 python Level-2 quantum circuit stimulate.py
-
+````
+```bash
 python Level-3 quantum circuit stimulate.py
 ````
 **Reproducibility**
